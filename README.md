@@ -9,8 +9,8 @@ The game mechanic I will be creating for coding task 2 is for my comp150 group p
 
 First Trello Board.
 
-![alt tag](https://github.com/TheHarlander/comp110-coding-task-2/blob/master/Comp110CodingTask2_trello1.png)
+![alt tag](https://github.com/TheHarlander/comp110-coding-task-2/blob/master/Trello%20Board%20Images/Comp110CodingTask2_trello1.png)
 
 Second Trello Board.
 
-![alt tag](https://github.com/TheHarlander/comp110-coding-task-2/blob/master/Comp110CodingTask2_trello2.png)
+![alt tag](https://github.com/TheHarlander/comp110-coding-task-2/blob/master/Trello%20Board%20Images/Comp110CodingTask2_trello2.png)
